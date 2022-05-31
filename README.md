@@ -1,5 +1,5 @@
 # Calculadora
 Calculadora realizada con:
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
