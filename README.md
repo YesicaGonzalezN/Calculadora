@@ -1,5 +1,5 @@
 # Calculadora JavaScript
-Calculadora realizada con:
+Calculadora funcional realizada con:
 
 - HTML
 - CSS
