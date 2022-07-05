@@ -1,4 +1,4 @@
-# Calculadora JavaScript
+# Calculadora en JavaScript
 Calculadora funcional realizada con:
 
 - HTML
